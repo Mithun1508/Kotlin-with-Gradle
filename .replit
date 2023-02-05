@@ -1,4 +1,0 @@
-run = "./gradlew run --args='arg1 arg2'"
-
-[nix]
-channel = "stable-22_05"
